@@ -245,7 +245,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/rmt_storage:$(TARGET_COPY_OUT_VENDOR)/bin/rmt_storage \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/sensors.qti:$(TARGET_COPY_OUT_VENDOR)/bin/sensors.qti \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/shsusrd:$(TARGET_COPY_OUT_VENDOR)/bin/shsusrd \
-    vendor/xiaomi/ginkgo/proprietary/vendor/bin/sigma_dut:$(TARGET_COPY_OUT_VENDOR)/bin/sigma_dut \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/tftp_server:$(TARGET_COPY_OUT_VENDOR)/bin/tftp_server \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/xiaomi/ginkgo/proprietary/vendor/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
